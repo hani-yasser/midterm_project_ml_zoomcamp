@@ -13,5 +13,5 @@ Deployment
  
 4.	Open a new terminal and run 'predict-test.py
 5.	Install 'pipenv' and add the required libraries. This will generate a 'Pipfile' and 'Pipfile.lock but for this project conda was used instead.
-6.	Unfortunately, I couldn't create a Docker image, as I need to update Windows, and I don't have administrative privileges to do so
+6.	Docker didn’t work properly as my windows operating system need update where I don’t have admin  privileges to do so
 
